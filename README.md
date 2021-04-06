@@ -1,4 +1,4 @@
 # Preprocessing-Data---sukron
 
-# nama : MUhammad Sukron
+# nama : Muhammad Sukron
 # NIM  : A11.2018.10995
